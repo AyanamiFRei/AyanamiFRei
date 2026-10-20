@@ -1,0 +1,358 @@
+{
+ "key": "f80ad555",
+ "stars": 8,
+ "contributions": 260,
+ "repos": 18,
+ "followers": 1,
+ "languages": [
+  [
+   "HTML",
+   3338558
+  ],
+  [
+   "Python",
+   2716415
+  ],
+  [
+   "JavaScript",
+   2333041
+  ],
+  [
+   "GDScript",
+   540868
+  ],
+  [
+   "C",
+   346163
+  ],
+  [
+   "KerboScript",
+   263960
+  ],
+  [
+   "Ren'Py",
+   194383
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 7
+ },
+ "pins": [
+  {
+   "name": "TgAIBot",
+   "url": "https://github.com/AyanamiFRei/TgAIBot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "fathers-shadows",
+   "url": "https://github.com/AyanamiFRei/fathers-shadows",
+   "text": "Репозиторий игры \"father's shadows\" от команды Kill la Kill для геймджема от CarX",
+   "fork": false,
+   "stars": 3,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "watashi-wo-soto-ni-tsuretette-localization",
+   "url": "https://github.com/AyanamiFRei/watashi-wo-soto-ni-tsuretette-localization",
+   "text": "RU/EN: Неофициальная русская и английская локализация / Unofficial Russian and English localization for わたしをそとにつれてって. by Migdal Bavel project.",
+   "fork": false,
+   "stars": 0,
+   "language": "KerboScript",
+   "topics": []
+  },
+  {
+   "name": "PockeDate-Russian",
+   "url": "https://github.com/AyanamiFRei/PockeDate-Russian",
+   "text": "Русификатор для игры pockedate",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "DarkMachine",
+   "url": "https://github.com/AyanamiFRei/DarkMachine",
+   "text": "Общий репозиторий для игры DarkMachine. Весь godot проект.",
+   "fork": false,
+   "stars": 2,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "project_practice_2026",
+   "url": "https://github.com/Rampl3/project_practice_2026",
+   "text": "Проектная практика",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "fathers-shadows",
+   "url": "https://github.com/AyanamiFRei/fathers-shadows",
+   "text": "Репозиторий игры \"father's shadows\" от команды Kill la Kill для геймджема от CarX",
+   "fork": false,
+   "stars": 3,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "ProjectNovel",
+   "url": "https://github.com/AyanamiFRei/ProjectNovel",
+   "text": "Общий репозиторий для проекта новеллы",
+   "fork": false,
+   "stars": 3,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "DarkMachine",
+   "url": "https://github.com/AyanamiFRei/DarkMachine",
+   "text": "Общий репозиторий для игры DarkMachine. Весь godot проект.",
+   "fork": false,
+   "stars": 2,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "AyanamiFRei",
+   "url": "https://github.com/AyanamiFRei/AyanamiFRei",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TgAIBot",
+   "url": "https://github.com/AyanamiFRei/TgAIBot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "watashi-wo-soto-ni-tsuretette-localization",
+   "url": "https://github.com/AyanamiFRei/watashi-wo-soto-ni-tsuretette-localization",
+   "text": "RU/EN: Неофициальная русская и английская локализация / Unofficial Russian and English localization for わたしをそとにつれてって. by Migdal Bavel project.",
+   "fork": false,
+   "stars": 0,
+   "language": "KerboScript",
+   "topics": []
+  },
+  {
+   "name": "PockeDate-Russian",
+   "url": "https://github.com/AyanamiFRei/PockeDate-Russian",
+   "text": "Русификатор для игры pockedate",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Pake",
+   "url": "https://github.com/AyanamiFRei/Pake",
+   "text": "🤱🏻 Turn any webpage into a desktop app with one command.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "TestRepo",
+   "url": "https://github.com/AyanamiFRei/TestRepo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "stable-diffusion-paperspace",
+   "url": "https://github.com/AyanamiFRei/stable-diffusion-paperspace",
+   "text": "Jupyter notebooks for Paperspace.",
+   "fork": true,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "mail_test",
+   "url": "https://github.com/AyanamiFRei/mail_test",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "tex_ex_test",
+   "url": "https://github.com/AyanamiFRei/tex_ex_test",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "IOU_next.js",
+   "url": "https://github.com/AyanamiFRei/IOU_next.js",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "IOU",
+   "url": "https://github.com/AyanamiFRei/IOU",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Sahar_8",
+   "url": "https://github.com/AyanamiFRei/Sahar_8",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "picabu",
+   "url": "https://github.com/AyanamiFRei/picabu",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "picadu",
+   "url": "https://github.com/AyanamiFRei/picadu",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "my-site",
+   "url": "https://github.com/AyanamiFRei/my-site",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
