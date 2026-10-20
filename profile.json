@@ -132,15 +132,11 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/rei_ayanami3"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://discord.com/ayanamirei2056"
       }
     ],
     "variant": "chip",
