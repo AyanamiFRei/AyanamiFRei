@@ -1,8 +1,8 @@
 {
- "key": "4ae30a80",
+ "key": "e8d672dc",
  "stars": 8,
- "contributions": 261,
- "repos": 18,
+ "contributions": 266,
+ "repos": 19,
  "followers": 1,
  "languages": [
   [
@@ -11,11 +11,11 @@
   ],
   [
    "Python",
-   2716415
+   2744195
   ],
   [
    "JavaScript",
-   2333041
+   2400998
   ],
   [
    "GDScript",
@@ -26,12 +26,12 @@
    346163
   ],
   [
-   "KerboScript",
-   263960
+   "TypeScript",
+   294946
   ],
   [
-   "Ren'Py",
-   194383
+   "KerboScript",
+   263960
   ]
  ],
  "days": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 4,
     "today": true
    },
@@ -136,7 +136,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 7
  },
  "pins": [
@@ -221,6 +221,15 @@
    "fork": false,
    "stars": 2,
    "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "mgimo-vibecode-orbita",
+   "url": "https://github.com/AyanamiFRei/mgimo-vibecode-orbita",
+   "text": "Орбита — конкурсный прототип цифрового деканата вымышленного университета. Next.js, NextAuth, libSQL.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
    "topics": []
   },
   {
